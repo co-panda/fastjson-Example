@@ -21,7 +21,7 @@ public class StringToJsonlmpl implements StringToJson {
         r.put("photo2", p2);
         r.put("content", cont);
 
-        //System.out.println(p1);
+        System.out.println(p1);
         return r;
     }
 }
